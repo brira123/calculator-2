@@ -2,8 +2,8 @@
 
 Page link: https://brira123.github.io/calculator-2/
 
-1- HTML
+* HTML
 
-2- CSS
+* CSS
 
-3- Basic JavaScript
+* Basic JavaScript
